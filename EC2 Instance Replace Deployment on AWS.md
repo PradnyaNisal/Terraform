@@ -197,6 +197,3 @@ Creates or updates infrastructure resources.
 ## What is terraform destroy?
 
 Removes all resources managed by Terraform.
-Pradnya Nisal
-
-Computer Engineer | AWS | Terraform | DevOps Learner
