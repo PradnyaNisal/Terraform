@@ -1,4 +1,4 @@
-# Complete Terraform Setup on AWS - Step-by-Step Guide
+# Complete Terraform Setup on AWS 
 
 ## Objective
 
