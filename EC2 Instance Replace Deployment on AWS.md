@@ -134,7 +134,6 @@ Examples:
 * Instance ID
 * Public IP Address
 * Resource ARN
--------------------------------------------------------------------------
 
 ## Sample Output
 
@@ -146,9 +145,11 @@ terraform_instance_id = i-0abcdef1234567890
 my_ec2_public_ip = 13.48.xxx.xxx
 
 terraform_public_ip = 16.170.xxx.xxx
+```
 
---------------------------------------------------------------------------
-## Technologies Used
+---
+
+# Technologies Used
 
 * Terraform
 * AWS EC2
@@ -157,7 +158,7 @@ terraform_public_ip = 16.170.xxx.xxx
 
 ---
 
-## Benefits
+# Benefits
 
 * Automated Infrastructure Provisioning
 * Repeatable Deployments
@@ -167,34 +168,35 @@ terraform_public_ip = 16.170.xxx.xxx
 
 ---
 
-## Interview Questions
+# Interview Questions
 
-### What is Terraform?
+## What is Terraform?
 
 Terraform is an Infrastructure as Code (IaC) tool developed by HashiCorp used to automate cloud infrastructure provisioning.
 
-### What is a Provider?
+## What is a Provider?
 
 A Provider is a plugin that enables Terraform to interact with cloud platforms such as AWS, Azure, and GCP.
 
-### What is a Resource?
+## What is a Resource?
 
 A Resource represents an infrastructure component managed by Terraform, such as EC2, VPC, or RDS.
 
-### What is terraform init?
+## What is terraform init?
 
 Downloads providers and initializes the Terraform working directory.
 
-### What is terraform plan?
+## What is terraform plan?
 
 Shows the execution plan before resources are created.
 
-### What is terraform apply?
+## What is terraform apply?
 
 Creates or updates infrastructure resources.
 
-### What is terraform destroy?
+## What is terraform destroy?
 
 Removes all resources managed by Terraform.
+Pradnya Nisal
 
-
+Computer Engineer | AWS | Terraform | DevOps Learner
