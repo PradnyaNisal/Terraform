@@ -197,10 +197,4 @@ Creates or updates infrastructure resources.
 
 Removes all resources managed by Terraform.
 
----
 
-## Author
-
-**Pradnya Nisal**
-
-Computer Engineer | Java Developer | DevOps & Cloud Enthusiast
